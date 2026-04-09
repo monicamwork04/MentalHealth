@@ -1,59 +1,52 @@
-# 🧠 Mental Health Reminder App
+# 🧠 Mental Health App
 
-A full-stack Mental Health Reminder application designed to help users maintain emotional well-being by setting daily reminders, tracking mood, and building positive habits.
+A full-stack Mental Health application developed using **React, Node.js and MySQL** to help users track mood, build healthy habits, and improve emotional well-being.
 
 ---
 
 ## 📌 Project Overview
-Mental health is as important as physical health.  
-This application helps users:
-
-• Set daily self-care reminders  
-• Track mood and mental wellness  
-• Receive motivational notifications  
-• Build healthy routines and habits  
-
-This project is developed as a **Full Stack Application** using modern web/mobile technologies.
+Mental health plays a vital role in daily life.  
+This application allows users to monitor mood, view motivational content, and maintain positive habits using a modern full-stack architecture.
 
 ---
 
 ## 🚀 Features
 
 ### 👤 User Features
-- User registration & login
-- Set daily reminders (meditation, water, break, sleep)
-- Mood tracking system 😊😐😔
-- Daily motivational quotes
-- Notification alerts
-- View reminder history
+- User Registration & Login  
+- Mood Tracking 😊😐😔  
+- Daily motivational quotes  
+- Self-care tips  
+- Habit tracking dashboard  
+- Simple and responsive UI  
 
 ### 🛠️ Technical Features
-- Full Stack Architecture (Frontend + Backend)
-- REST API integration
-- Local database storage
-- Responsive UI design
+- REST API integration  
+- Secure authentication  
+- MySQL database connectivity  
+- Full Stack MVC architecture  
 
 ---
 
 ## 🏗️ Tech Stack
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- React / Android (depending on your build)
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ### Backend
-- Node.js
-- Express.js
+- Node.js  
+- Express.js  
 
 ### Database
-- MongoDB / JSON storage
+- MySQL (MySQL Workbench)
 
 ### Tools
-- Git & GitHub
-- VS Code
-- Postman
+- Git & GitHub  
+- VS Code  
+- Postman  
 
 ---
 
